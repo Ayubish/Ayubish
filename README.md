@@ -27,7 +27,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
 
 
 ## 📬 Get in Touch
-
+- Check out my [Portfolio Site](https://ayubish.netlify.app )
 - Connect with me on [Twitter](https://twitter.com/ayubish_).
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
