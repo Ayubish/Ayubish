@@ -18,7 +18,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications with Express, a NodeJs framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
