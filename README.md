@@ -10,7 +10,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
 - 📝 I participate in competitive programming contests.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,react,tailwind,bootstrap,nextjs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,tailwind,bootstrap,nextjs,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
