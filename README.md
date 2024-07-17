@@ -7,7 +7,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
-- 📝 I participate in competitive programming contests.
+- 📝 I participate in competitive programming contests. 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,tailwind,bootstrap,nextjs,postgres,python)](https://skillicons.dev)
