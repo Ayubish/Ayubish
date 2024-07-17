@@ -4,7 +4,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
 
 ![<ayubish>'s Stats](https://github-readme-stats.vercel.app/api?username=ayubish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
 - 📝 I participate in competitive programming contests. 
