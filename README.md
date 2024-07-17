@@ -12,7 +12,7 @@ I am Computer Science and Engineering student at ASTU, driven by a curiosity for
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,tailwind,bootstrap,nextjs,postgres,python)](https://skillicons.dev)
 
-## 🌱 Currently Exploring 
+## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
